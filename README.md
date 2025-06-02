@@ -1,4 +1,4 @@
-# Analisis Infeksi Malaria Berdasarkan Perbedaan Tekstur Citra Sel Darah Menggunakan Segmentasi Thresholding
+![C33P1thinF_IMG_20150619_114756a_cell_180 (2)](https://github.com/user-attachments/assets/4a265e28-31d8-4be4-9776-5b0e323cb11d)# Analisis Infeksi Malaria Berdasarkan Perbedaan Tekstur Citra Sel Darah Menggunakan Segmentasi Thresholding
 
 ## Anggota Kelompok
 | Nama                             |      NIM      |
@@ -13,4 +13,9 @@
 
 ## Program ini dirancang untuk membantu proses deteksi awal infeksi malaria melalui analisis citra mikroskopis sel darah. Tahap pertama dilakukan segmentasi menggunakan metode thresholding untuk memisahkan objek utama (sel darah) dari latar belakang citra. Setelah itu, program menganalisis tekstur dari citra yang telah disegmentasi guna membedakan antara sel darah normal dan sel yang berpotensi terinfeksi parasit malaria. Dengan pendekatan ini, program diharapkan mampu memberikan dukungan awal dalam sistem diagnosis malaria secara otomatis dan efisien.
 
-## Metode yang digunakan dalam penyusunan project ini adalah Resize, Grayscale, Normalisasi, Thresholding, Median, Erosi, dan Segmentasi/Masking
+## Metode yang digunakan dalam penyusunan project ini adalah Resize, Grayscale, Normalisasi, Thresholding, Median, Erosi, dan Segmentasi/Masking.
+
+## Dataset
+1. ![C33P1thinF_IMG_20150619_114756a_cell_179](https://github.com/user-attachments/assets/24359699-3888-49b2-9693-3f18b26aaec5)
+2. ![C1_thinF_IMG_20150604_104722_cell_9](https://github.com/user-attachments/assets/ed802219-5017-42a5-9628-3a8fdb7d4cb1)
+
