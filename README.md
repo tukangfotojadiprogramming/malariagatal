@@ -1,7 +1,6 @@
 # Analisis Infeksi Malaria Berdasarkan Perbedaan Tekstur Citra Sel Darah Menggunakan Segmentasi Thresholding
 
 ## Anggota Kelompok
-
 | Nama                             |      NIM      |
 |----------------------------------|---------------|
 | Lalu Adittya Pratama Jelindra    |  F1D02310014  |
